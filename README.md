@@ -18,8 +18,9 @@
 - [poppler-utils](https://poppler.freedesktop.org/)：用于支持 PDF 转换的工具。
 
 ### 如不熟悉配置流程，也可直接下载打包好的文件运行，基于tkinter，所以页面不如streamlit精美
-### 环境及已打包文件下载地址：
-https://pan.quark.cn/s/a5d0e37115a8
+### 环境及可执行文件下载地址：
+[夸克盘](https://pan.quark.cn/s/a5d0e37115a8)
+[百度盘,提取码69hi](https://pan.baidu.com/s/1p6reebYtEnxt0od-BxIxyQ?pwd=69hi)
 
 ## 安装步骤
 1. 克隆项目到本地：
